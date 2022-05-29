@@ -11,12 +11,12 @@
 
 ### Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [Iterators and Generators in Python. Part 6](https://sammy-code.com/iterators-and-generators-in-python-part-6)
-- [Function in Python Part 5](https://sammy-code.com/function-in-python-part-5)
-- [Sort Method, Sorted Function, Map Function, Filter Method, and Lambda Function Part 4](https://sammy-code.com/sort-method-sorted-function-map-function-filter-method-and-lambda-function-part-4)
+- [Iterators and Generators in Python. Part 6](https://www.sammy-code.com/iterators-and-generators-in-python-part-6)
+- [Function in Python Part 5](https://www.sammy-code.com/function-in-python-part-5)
+- [Sort Method, Sorted Function, Map Function, Filter Method, and Lambda Function Part 4](https://www.sammy-code.com/sort-method-sorted-function-map-function-filter-method-and-lambda-function-part-4)
 - [Python Methods in Collection Data Types
-&lpar;List, Tuple, Set, and Dictionary&rpar; Part 3](https://sammy-code.com/python-methods-in-collection-data-types-list-tuple-set-and-dictionary-part-3)
-- [Loops in Python Part 2](https://sammy-code.com/loops-in-python-part-2)
+&lpar;List, Tuple, Set, and Dictionary&rpar; Part 3](https://www.sammy-code.com/python-methods-in-collection-data-types-list-tuple-set-and-dictionary-part-3)
+- [Loops in Python Part 2](https://www.sammy-code.com/loops-in-python-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/samer_mahamid" target="blank"><img src="https://img.shields.io/twitter/follow/samer_mahamid?logo=twitter&style=for-the-badge" alt="samer_mahamid" /></a> </p>
