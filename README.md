@@ -53,6 +53,6 @@
 ### Stats:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samer25&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="samer25" /></p>
-<p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=samer25&theme=tokyonight&show_icons=true&locale=en" alt="samer25" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samer25&theme=tokyonight" alt="samer25" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=samer25&theme=tokyonight&show_icons=true&locale=en" alt="samer25" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samer25&theme=tokyonight" alt="samer25" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samer25&theme=tokyonight" alt="samer25" /></a> </p>
