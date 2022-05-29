@@ -18,7 +18,7 @@ My skills are primarily focused on the Python language and especially on the Dja
 
 # My Blog:
 
-<a href = 'https://sammy-code.com'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/10382/blogger.svg"/></a> 
+<a href = 'https://sammy-code.com'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/185785/blog.svg"/></a> 
 
 
 
