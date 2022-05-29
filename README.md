@@ -21,4 +21,4 @@ My skills are primarily focused on the Python language and especially on the Dja
 <a href = 'https://sammy-code.com'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/185785/blog.svg"/></a> 
 
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=samer25)](https://git.io/praveenscience)
+[![Samer25's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samer25&theme=tokyonight)](https://git.io/praveenscience)
