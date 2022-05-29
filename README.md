@@ -9,5 +9,5 @@ www.linkedin.com/in/samer-mahamid-6160261a6m
 
 # And my blog posts:
 
-sammy-code.com
+https://sammy-code.com
 
