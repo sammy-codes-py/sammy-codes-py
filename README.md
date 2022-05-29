@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/samer-mahamid-6160261a6](www.linkedin.com/in/samer-mahamid-6160261a6)
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Iterators and Generators in Python. Part 6](https://sammy-code.com/iterators-and-generators-in-python-part-6)
 - [Function in Python Part 5](https://sammy-code.com/function-in-python-part-5)
