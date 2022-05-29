@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python, Django, SQL and Rest-Api**
 
-- 📝 I regularly write articles on [https://sammy-code.com](https://sammy-code.com)
-
 - 📄 Know about my experiences [www.linkedin.com/in/samer-mahamid-6160261a6](www.linkedin.com/in/samer-mahamid-6160261a6)
+
+- 📝 I regularly write articles on [https://sammy-code.com](https://sammy-code.com)
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
