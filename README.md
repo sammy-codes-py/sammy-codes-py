@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samer Mahamid</h1>
 <h3 align="center">I've graduated from "SoftUni" Software University in Bulgaria with a Vocational Diploma in Python Web Development My skills are primarily focused on the Python language and especially on the Django framework, but I am also familiar with other programming languages or frameworks like HTML5, CSS3, JavaScript, and SQL.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samer25" alt="samer25" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/samer_mahamid" target="blank"><img src="https://img.shields.io/twitter/follow/samer_mahamid?logo=twitter&style=for-the-badge" alt="samer_mahamid" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django, SQL and Rest-Api**
 
 - 📝 I regularly write articles on [https://sammy-code.com](https://sammy-code.com)
@@ -37,6 +33,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samer25&show_icons=true&locale=en&layout=compact" alt="samer25" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samer25&show_icons=true&locale=en" alt="samer25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samer25&" alt="samer25" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samer25" alt="samer25" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/samer_mahamid" target="blank"><img src="https://img.shields.io/twitter/follow/samer_mahamid?logo=twitter&style=for-the-badge" alt="samer_mahamid" /></a> </p>
