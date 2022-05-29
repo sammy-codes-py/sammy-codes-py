@@ -6,17 +6,16 @@ My skills are primarily focused on the Python language and especially on the Dja
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-# LinkedIn profile:
+### LinkedIn profile:
 
 <a href = 'www.linkedin.com/in/samer-mahamid-6160261a6m'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-# Twitter profile
+### Twitter profile:
 
 <a href = 'https://www.twitter.com/Nsamer_mahamid'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
 
-
-# My Blog:
+### My Blog:
 
 <a href = 'https://sammy-code.com'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/185785/blog.svg"/></a> 
 
