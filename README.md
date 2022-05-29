@@ -1,10 +1,13 @@
 # Hey, My name is Samer Mahamid
-I'm a Python Web Developer, I,m currently freelance building websites and web applications.
-I specialize in Python, Django and JavaScript and also have experience working with HTML, CSS and relational database. 
-I'm studying at Softweare University in Bulgaria (SoftUni) and living in Germany
+
+I've graduated from "SoftUni" Software University in Bulgaria with a Vocational Diploma in Python Web Development
+My skills are primarily focused on the Python language and especially on the Django framework, but I am also familiar with other programming languages or frameworks like HTML5, CSS3, JavaScript, and SQL.
 
 # Check my LinkedIn profile:
 
-www.linkedin.com/in/samer-mahamid-6160261a6
+www.linkedin.com/in/samer-mahamid-6160261a6m
 
+# And my blog posts:
+
+sammy-code.com
 
