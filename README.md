@@ -11,7 +11,7 @@
 
 ### Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [File Handling with Python part 7](https://www.sammy-code.com/file-handling-with-python-part-7)
+- [File Handling with Python Part 7](https://www.sammy-code.com/file-handling-with-python-part-7)
 - [Iterators and Generators in Python. Part 6](https://www.sammy-code.com/iterators-and-generators-in-python-part-6)
 - [Function in Python Part 5](https://www.sammy-code.com/function-in-python-part-5)
 - [Sort Method, Sorted Function, Map Function, Filter Method, and Lambda Function Part 4](https://www.sammy-code.com/sort-method-sorted-function-map-function-filter-method-and-lambda-function-part-4)
