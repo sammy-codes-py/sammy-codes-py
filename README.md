@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Build Solid Software &lpar;Testing&rpar;](https://www.sammy-code.com/build-solid-software-testing)
 - [Error Handling in Python Part 8](https://www.sammy-code.com/error-handling-in-python-part-8)
 - [File Handling with Python Part 7](https://www.sammy-code.com/file-handling-with-python-part-7)
 - [Iterators and Generators in Python. Part 6](https://www.sammy-code.com/iterators-and-generators-in-python-part-6)
 - [Function in Python Part 5](https://www.sammy-code.com/function-in-python-part-5)
-- [Sort Method, Sorted Function, Map Function, Filter Method, and Lambda Function Part 4](https://www.sammy-code.com/sort-method-sorted-function-map-function-filter-method-and-lambda-function-part-4)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/samer_mahamid" target="blank"><img src="https://img.shields.io/twitter/follow/samer_mahamid?logo=twitter&style=for-the-badge" alt="samer_mahamid" /></a> </p>
