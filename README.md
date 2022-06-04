@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Using Signal in Django to Delete Old Image](https://sammy-code.com/using-signal-in-django-to-delete-old-image)
 - [OOP &lpar;Object-oriented programming&rpar; in Python](https://sammy-code.com/oop-object-oriented-programming-in-python)
 - [Build Solid Software &lpar;Testing&rpar;](https://sammy-code.com/build-solid-software-testing)
 - [Error Handling in Python Part 8](https://sammy-code.com/error-handling-in-python-part-8)
 - [File Handling with Python Part 7](https://sammy-code.com/file-handling-with-python-part-7)
-- [Iterators and Generators in Python. Part 6](https://sammy-code.com/iterators-and-generators-in-python-part-6)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/samer_mahamid" target="blank"><img src="https://img.shields.io/twitter/follow/samer_mahamid?logo=twitter&style=for-the-badge" alt="samer_mahamid" /></a> </p>
