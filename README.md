@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samer Mahamid</h1>
-<h3 align="center">I'm Python Web Developer My skills are primarily focused on the Python language and especially on the Django framework, but I am also familiar with other programming languages or frameworks like HTML5, CSS3, JavaScript, and SQL.</h3>
+<h1 align="center">Hi 👋, my name is Samer Mahamid</h1>
+<h3 align="center">I'm Python Web Developer. My skills are primarily focused on the Python language and especially on the Django framework, but I am also familiar with other programming languages or frameworks like HTML5, CSS3, JavaScript, and SQL.</h3>
 
 <br>
 
