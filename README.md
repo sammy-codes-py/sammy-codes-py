@@ -11,11 +11,11 @@
 
 ### Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Django + Wagtail: The Perfect Combination for Your Next Web Project](https://sammy-code.com/django-wagtail-the-perfect-combination-for-your-next-web-project)
 - [Python Decorators](https://sammy-code.com/python-decorators)
 - [Organizing Files with Python](https://sammy-code.com/organizing-files-with-python)
 - [Using Signal in Django to Delete Old Image](https://sammy-code.com/using-signal-in-django-to-delete-old-image)
 - [OOP &lpar;Object-oriented programming&rpar; in Python](https://sammy-code.com/oop-object-oriented-programming-in-python)
-- [Build Solid Software &lpar;Testing&rpar;](https://sammy-code.com/build-solid-software-testing)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/sammy_codes_py" target="blank"><img src="https://img.shields.io/twitter/follow/sammy_codes_py?logo=twitter&style=for-the-badge" alt="sammy_codes_py" /></a> </p>
