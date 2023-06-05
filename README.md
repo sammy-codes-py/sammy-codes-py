@@ -7,16 +7,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/samer-mahamid-6160261a6](https://www.linkedin.com/in/samer-mahamid-6160261a6)
 
-- 📝 I regularly write articles on [https://sammy-code.com](https://sammy-code.com)
-
-### Latest Blogs posts:
-<!-- BLOG-POST-LIST:START -->
-- [5 Stacks Every Python Backend Web Developer Should Know](https://sammy-code.com/5-stacks-every-python-backend-web-developer-should-know)
-- [Why It&#39;s Important to Continue Practicing Code After Finding a Job](https://sammy-code.com/why-its-important-to-continue-practicing-code-after-finding-a-job)
-- [Django + Wagtail: The Perfect Combination for Your Next Web Project](https://sammy-code.com/django-wagtail-the-perfect-combination-for-your-next-web-project)
-- [Python Decorators](https://sammy-code.com/python-decorators)
-- [Organizing Files with Python](https://sammy-code.com/organizing-files-with-python)
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/sammy_codes_py" target="blank"><img src="https://img.shields.io/twitter/follow/sammy_codes_py?logo=twitter&style=for-the-badge" alt="sammy_codes_py" /></a> </p>
 
